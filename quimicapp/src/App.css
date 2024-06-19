@@ -1,0 +1,316 @@
+h1,
+h2 {
+  text-align: center;
+}
+a{
+  font-size: 10px;
+}
+h2 {
+  color: #359c38 !important;
+}
+
+.h2-text {
+  color: #2ed034 !important;
+}
+
+.topodetudo {
+  background-color: #4CAF50;
+  padding: 20px;
+  color: white;
+}
+
+.topodebaixo {
+  background-color: #7aff78;
+  padding: 5px;
+  color: rgb(0, 0, 0);
+}
+
+
+header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+}
+
+.logo {
+  width: 50px;
+  height: 50px;
+}
+
+.navMenu{
+  list-style-type: none;
+  padding: 100;
+  display: flex;
+  justify-content: center;
+  gap: 70px;
+  color: white;
+  text-decoration: none;
+  font-size: 1.2rem;
+  text-decoration: underline;
+
+}
+
+nav ul {
+  list-style-type: none;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+nav li {
+  display: inline;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+  font-size: 1.2rem;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+.content-section {
+  padding: 20px;
+  margin: 20px;
+  border: 1px solid #ccc;
+}
+
+.content-section h2 {
+  margin-top: 0;
+}
+
+
+.funcao {
+  display: flex;
+  justify-content: center;
+  height: 150px;
+  align-items: center !important;
+  margin-left: 80px;
+
+}
+
+.p-text {
+  align-items: center;
+  text-align: center;
+}
+
+.funcao1 {
+  display: flex;
+  justify-content: center;
+  height: 150px;
+  align-items: center !important;
+  margin-left: 90px;
+
+}
+
+.funcao2 {
+  display: flex;
+  justify-content: center;
+  height: 150px;
+  align-items: center !important;
+  margin-left: 100px;
+
+}
+
+.funcao3 {
+  display: flex;
+  justify-content: center;
+  height: 150px;
+  align-items: center !important;
+  margin-left: 600px;
+
+}
+
+.funcao4 {
+  display: flex;
+  justify-content: center;
+  height: 140px;
+  align-items: center !important;
+  margin-left: 130px;
+
+}
+
+.funcao5 {
+  display: flex;
+  justify-content: center;
+  height: 150px;
+  align-items: center !important;
+  margin-left: 200px;
+
+}
+
+.funcao6 {
+  display: flex;
+  justify-content: center;
+  height: 40px;
+  align-items: center !important;
+  margin-left: 150px;
+
+}
+.funcao7 {
+  display: flex;
+  height: 150px;
+  margin-left: 40px;
+
+}
+.funcao8 {
+  display: flex;
+  height: 190px;
+  margin-left: 70px;
+
+}
+.funcao9 {
+  display: flex;
+  justify-content: center;
+  height:40px;
+  align-items: center !important;
+  margin-left: 150px;
+
+}
+.tabela{
+  display: flex;
+  justify-content: center!important;
+  height:400px;
+  align-items: center!important;
+  margin-left: 300px;
+
+}
+.exemplo{
+  display: flex;
+  justify-content: center!important;
+  height:400px;
+  align-items: center!important;
+  margin-left: 400px;
+
+}
+.funcao11 {
+  display: flex;
+  justify-content: center;
+  height: 35px;
+  align-items: center !important;
+  margin-left: 150px;
+
+}
+.funcao12 {
+  display: flex;
+  justify-content: center;
+  height: 20px;
+  align-items: center !important;
+  margin-left: 90px;
+
+}
+.funcao13 {
+  display: flex;
+  justify-content: center;
+  height: 35px;
+  align-items: center !important;
+  margin-left: 100px;
+
+}
+.funcao14{
+  display: flex;
+  justify-content: center;
+  height: 80px;
+  align-items: center !important;
+  margin-left: 100px;
+
+}
+.funcao15{
+  display: flex;
+  justify-content: center;
+  height: 60px;
+  align-items: center !important;
+  margin-left: 110px;
+
+}
+.funcao16{
+  display: flex;
+  justify-content: center;
+  height: 70px;
+  align-items: center !important;
+  margin-left: 130px;
+
+}
+.funcao17 {
+  display: flex;
+  justify-content: center;
+  height: 120px;
+  align-items: center !important;
+  margin-left: 150px;
+
+}
+
+
+
+.group {
+  margin-top: 22px;
+  display: flex;
+  line-height: 28px;
+  align-items: center;
+  position: relative;
+  max-width: 120px;
+  right: 140px;
+}
+
+.input {
+margin-left: 1120px; 
+  width: 1300px!important;
+  height: 40px;
+  line-height: 28px;
+  padding: 0 1rem;
+  padding-left: 2.5rem;
+  border: 2px solid transparent;
+  border-radius: 8px;
+  outline: none;
+  background-color: #f3f3f4;
+  color: #0d0c22;
+  transition: 0.3s ease;
+}
+
+.input::placeholder {
+  color: #9e9ea7;
+}
+
+.input:focus,
+input:hover {
+  outline: none;
+  border-color: rgba(234, 226, 183, 0.4);
+  background-color: #fff;
+  box-shadow: 0 0 0 4px rgb(234 226 183 / 10%);
+}
+
+.icon {
+  margin-left: 1120px; 
+  position: absolute;
+  left: 1rem;
+  fill: #9e9ea7;
+  width: 1rem;
+  height: 1rem;
+}
+.Footer-div{
+  background-color: #4CAF50;
+  width: 100%;
+  height: 80px;
+}
+.link{
+  color: #fff;
+  margin: 20px;
+  font-size: 20px;
+  align-items: center;
+  text-align: center;
+  text-decoration: none;
+}
+.links{
+  width: 60%;
+  height: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: end;
+  position: relative;
+  bottom: 25px;
+  right: 50px;
+}
